@@ -1,3 +1,7 @@
+# HAND-WRITTEN-DIGIT-PREDICTION
+
+Handwritten digit prediction is a classic problem in computer vision and machine learning. It involves training a model to accurately recognize handwritten digits from images.
+
 #  ABSTRACT
 
 Handwritten Digit Recognition is a pivotal task in computer vision, with applications spanning from optical character recognition to form processing. 
