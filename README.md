@@ -1,4 +1,4 @@
- ABSTRACT
+#  ABSTRACT
 
 Handwritten Digit Recognition is a pivotal task in computer vision, with applications spanning from optical character recognition to form processing. 
 This project aims to develop a robust and accurate model capable of identifying handwritten digits from images.
@@ -10,7 +10,7 @@ Our model incorporates data augmentation strategies to enhance generalization an
 Through rigorous experimentation and evaluation, we demonstrate the efficacy of our approach in achieving state-of-the-art performance on benchmark datasets. 
 Our research contributes to the advancement of handwritten digit recognition technology, paving the way for more efficient and accurate automation in various real-world applications.
 
-METHODS
+# METHODS
 
 RandomForestClassifier is used for accuracy check.
  STEPS:   
@@ -22,6 +22,6 @@ RandomForestClassifier is used for accuracy check.
  - Random Forest Model
  - Model Accuracy
  
-RESULTS
+# RESULTS
 
 Model is successfully developed with an accuracy of 98% which can be further deployed for digit prediction.
