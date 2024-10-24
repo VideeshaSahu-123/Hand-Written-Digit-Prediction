@@ -17,6 +17,7 @@ Our research contributes to the advancement of handwritten digit recognition tec
 # METHODS
 
 RandomForestClassifier is used for accuracy check.
+
  STEPS:   
  - Importing Libraries
  - Importing Data
