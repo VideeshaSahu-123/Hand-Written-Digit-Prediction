@@ -24,4 +24,4 @@ RandomForestClassifier is used for accuracy check.
  
 RESULTS
 
-Model is successfully developed with an accuracy of 98%.
+Model is successfully developed with an accuracy of 98% which can be further deployed for digit prediction.
